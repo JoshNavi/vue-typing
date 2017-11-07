@@ -1,3 +1,3 @@
-Put here the vue-typing isolated usage instructions
+Basic usage example
 
-    <vue-typing :words="['phone', 'computer', 'camera', 'everything']">phone</vue-typing>
+    <div>Hello <vue-typing :words="['friend', 'github', 'world!']" /></div>

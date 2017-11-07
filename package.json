@@ -1,6 +1,6 @@
 {
   "name": "vue-typing",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple Vue.js component that simulates typing",
   "author": "Josh Navi <navijoshua@gmail.com>",
   "main": "dist/vue-typing.min.js",

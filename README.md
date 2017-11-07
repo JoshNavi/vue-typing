@@ -1,6 +1,6 @@
 # vue-typing
 
-> A simple Vue.js component that simulates typing"
+> A simple Vue.js component that simulates typing
 
 # Usage
 
